@@ -22,3 +22,4 @@
 ### 6. debugging tools
    #### var_dump() or error_log()
 ### 7.   check server logs
+### 8. update or rollback changes you made 
