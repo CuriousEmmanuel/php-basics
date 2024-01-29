@@ -6,3 +6,19 @@
 ## What is PHP and why it is used?
 ## What Is PHP Used For?
 ### PHP is a programming language used to script websites that are dynamic and interactive. You'll find it in various types of web applications, from e-commerce websites to CRM systems like HubSpot and Salesforce. The term PHP stands for PHP Hypertext Preprocessor.
+
+# common errors in php
+## The "White Screen of Death"
+### in PHP typically occurs when there is a fatal error that prevents PHP from executing any further code, causing the web server to stop processing and display a blank page instead. 
+
+## Here's what you can do to troubleshoot and fix it:
+### 1. check error logs
+### 2. enanle error reporting
+  #### Set display_errors to On and error_reporting to E_ALL in your php.ini file. 
+### 3.   syntax errors
+### 4. memory exhaustion
+   #### You can increase PHP's memory limit by setting memory_limit in your php.ini file.
+### 5.check server configuration
+### 6. debugging tools
+   #### var_dump() or error_log()
+### 7.   check server logs
