@@ -23,3 +23,4 @@
    #### var_dump() or error_log()
 ### 7.   check server logs
 ### 8. update or rollback changes you made 
+# and sometimes it jusst dont work no matter what you try,,,,, any suggestions?
