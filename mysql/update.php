@@ -1,8 +1,20 @@
 
 
-<?php include "db.php";
+<?php include "db.php"; ?>
+<?php include "functions.php"; ?>
 
-          //select all from users (its just a simple query)
+<?php
+//lets take this code to another file called function so that it looks a litle bit cleaner
+
+//all this queries are important because they connect and pull info from database
+
+
+
+          //select all from users (its just a simple query) 
+//this is the query that is pulling the information from the database (ids)
+
+
+/*
     $query = "SELECT * FROM users";
 
        $result = mysqli_query($connection,$query); // without the variables $connection and $query we will need to write the whole insert query and connection query inside this function
@@ -16,6 +28,8 @@
            
        }
 
+
+*/
 ?>
 
 <!DOCTYPE html>
@@ -31,12 +45,22 @@
     <input type="password" name="password" placeholder="Enter password"> <br>
 
     <select name="id" id="">
-        <option value="">1</option>
+
+<?php
+//take this also to functions
+
+/*while ($row = mysqli_fetch_assoc($result)) {
+    $id = $row['id'];
+  echo "<option value='$id'>$id</option>";//pull ids dynamically
+  }
+*/
+
+// noe we can just do all that fetching staff by calling one function
+
+   FetchAllData();
+ ?>   
     </select>
     <input type="submit" name="submit" value="UPDATE">
     </form>
-
-
-
 </body>
 </html>
