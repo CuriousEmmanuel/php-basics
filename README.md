@@ -23,7 +23,7 @@
    #### var_dump() or error_log()
 ### 7.   check server logs
 ### 8. update or rollback changes you made 
-# and sometimes it jusst dont work no matter what you try,,,,, any suggestions?
+### and sometimes it jusst dont work no matter what you try,,,,, any suggestions?
 ### re installing and reconfiguring the server is the best option so far it worked for me i dont know for your case 
 
 # REFACTORING
@@ -43,9 +43,9 @@
 
 
 
-### credits [deliciousbrains.com](https://www.php.net/](https://deliciousbrains.com/refactoring-php-code-better-readability/)https://deliciousbrains.com/refactoring-php-code-better-readability/ 'WP Offload Media')
+## credits [deliciousbrains.com](https://www.php.net/](https://deliciousbrains.com/refactoring-php-code-better-readability/)https://deliciousbrains.com/refactoring-php-code-better-readability/ 'WP Offload Media')
 
-### For their great explanations and examples
+## For their great explanations and examples
 
 
 
