@@ -30,3 +30,19 @@
 ## organizing your code into small modules so that it can be easy to edit and use them in any page 
 ## In some cases I have arranged some pieces of codes into functions so that its easy to access them by just calling the function
 
+
+![db-refactoringphpcode-1540x748](https://github.com/CuriousEmmanuel/learn_php/assets/107352649/f49ef44f-7200-4d5f-b930-64d35e30b2da)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
