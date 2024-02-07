@@ -33,7 +33,9 @@
 
 ![db-refactoringphpcode-1540x748](https://github.com/CuriousEmmanuel/learn_php/assets/107352649/f49ef44f-7200-4d5f-b930-64d35e30b2da)
 
-### credits [deliciousbrains.com][(https://www.php.net/](https://deliciousbrains.com/refactoring-php-code-better-readability/)https://deliciousbrains.com/refactoring-php-code-better-readability/ 'WP Offload Media')
+### credits [deliciousbrains.com](https://www.php.net/](https://deliciousbrains.com/refactoring-php-code-better-readability/)https://deliciousbrains.com/refactoring-php-code-better-readability/ 'WP Offload Media')
+
+### For downloads and detailed documentations check out php oficial website [php.net](https://www.php.net/ 'PHP')
 
 
 
