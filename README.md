@@ -24,3 +24,9 @@
 ### 7.   check server logs
 ### 8. update or rollback changes you made 
 # and sometimes it jusst dont work no matter what you try,,,,, any suggestions?
+### re installing and reconfiguring the server is the best option so far it worked for me i dont know for your case 
+
+# REFACTORING
+## organizing your code into small modules so that it can be easy to edit and use them in any page 
+## In some cases I have arranged some pieces of codes into functions so that its easy to access them by just calling the function
+
