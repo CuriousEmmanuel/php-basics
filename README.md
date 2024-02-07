@@ -33,9 +33,19 @@
 
 ![db-refactoringphpcode-1540x748](https://github.com/CuriousEmmanuel/learn_php/assets/107352649/f49ef44f-7200-4d5f-b930-64d35e30b2da)
 
+## Hre are some quick heads up
+### 1.Refactoring for Simplicity
+### 2.Don’t Repeat Yourself (DRY)
+### 3.Splitting up Complex Functions
+### 4.Splitting Up Complex Conditionals
+### 5.Replacing Nested Conditionals with Guard Clauses
+### 6.Refactoring Loops and Conditionals Using Functional Methods
+
+
+
 ### credits [deliciousbrains.com](https://www.php.net/](https://deliciousbrains.com/refactoring-php-code-better-readability/)https://deliciousbrains.com/refactoring-php-code-better-readability/ 'WP Offload Media')
 
-### For downloads and detailed documentations check out php oficial website [php.net](https://www.php.net/ 'PHP')
+### For their great explanations and examples
 
 
 
