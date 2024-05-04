@@ -4,7 +4,7 @@ class Car {
 	//keyword var is used to create properties
 
 	var $wheels = 4;
-	var $doors = 4
+	var $doors = 4;
 	var $hood =1;
 	var $engine =1;
 
@@ -27,7 +27,7 @@ class Plane extends Car {
 	}
 	$jet = new Plane();//instantiate first
 
-	$jet -> wheels;
+	 echo $jet -> wheels;
 	//you cn echo jet wheels which is inherited from car class
 
 	//we can try out methods
