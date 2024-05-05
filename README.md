@@ -1,4 +1,4 @@
-to# learn php
+# php basics
 ### A popular general-purpose scripting language that is especially suited to web development.
 ### Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world.
 ### For downloads and detailed documentations check out php oficial website [php.net](https://www.php.net/ 'PHP')
@@ -48,6 +48,8 @@ to# learn php
 ## For their great explanations and examples
 
 ## In case you are wondering if when uploading the same folder will duplicate the existing one well it will not infact it will update the contents on the existing folder and add new contents if the uploaded folder has new content.
+
+## feel free to contribute
 
 
 
